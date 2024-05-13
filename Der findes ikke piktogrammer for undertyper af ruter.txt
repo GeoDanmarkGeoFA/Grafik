@@ -1,0 +1,1 @@
+Der foreligger ikke piktogrammer for undertyper af ruter (rute_uty), da disse vises med den tilhørende overkategori (vandrerute, cykelrute mm.)
