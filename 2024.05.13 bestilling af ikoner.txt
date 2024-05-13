@@ -1,0 +1,41 @@
+Mappen: Facilitet_generelt_Piktogrammer
+•	Ingen ændringer
+
+Mappen: Facilitet_linje_5802_Piktogrammer
+Følgende ændres:
+•	Sejlrute – omdøbes til Sejlrute for kano og kajak
+Følgende er nye ikoner:
+•	Sejlrute for lyst- og motorbåde
+•	Sejlrute for færge
+
+Mappen: Facilitet_punkt_5800_Piktogrammer
+Følgende ændres:
+•	Fodhviler (flyttes til ny mappe: 
+•	Cykelparkering (slettes – men gem eventuelt, da den skal bruges igen i en senere bestilling!)
+Følgende er nye ikoner:
+•	Nedlagt fyrtårn
+•	Udendørs brusebad
+•	Lystfiskespot
+•	Open water bane
+o	Som er en bane til svømning i åbent vand
+•	Kajakpolo
+•	Færgeleje
+•	Kulturhistorisk seværdighed 
+o	F.eks. tidligere industri, eller konkret navigationsskolen på Bogø
+
+Mappen: Ladefacilitet_5607_Piktogrammer
+•	Ingen ændringer
+
+NY mappe: Cykelknudepunkter_5608_Piktogrammer
+•	Kopier eksisterende piktogram for cykelknudepunkt herind. Ligger i mappen: Facilitet_punkt_5800_Piktogrammer
+
+NY mappe: Cykelknudepunktsstrækning_5609_Piktogrammer
+•	Kopier eksisterende piktogram for cykelstaekning herind. Ligger i mappen: Facilitet_linje_5802_Piktogrammer
+
+NY mappe: Kort til cykelplanlægning_5610_Piktogrammer
+Nyt ikon:
+•	Planlagt cykelture
+
+NY mappe: Stationering til kort til cykelplanlægning_5610_Piktogrammer
+Nyt ikon:
+•	Stationering planlagt cykelrute
