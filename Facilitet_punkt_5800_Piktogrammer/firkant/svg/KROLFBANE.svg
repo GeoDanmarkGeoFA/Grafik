@@ -18,6 +18,9 @@
   <g id="Firkant">
     <rect class="cls-1" x="0" y="0" width="15.59" height="15.59"/>
   </g>
+  <g id="Cirkel">
+    <rect class="cls-1" x="0" y="0" width="15.59" height="15.59" rx="7.8" ry="7.8"/>
+  </g>
   <g id="ICONS">
     <g>
       <path class="cls-2" d="M9.44,9.36c-.2,0-.36.16-.36.36s.16.36.36.36.36-.16.36-.36-.16-.36-.36-.36Z"/>
