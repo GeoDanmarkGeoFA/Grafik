@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.59 15.59">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #071f39;
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-2 {
+        fill: #071f39;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Cirkel">
+    <rect class="cls-2" x="0" y="0" width="15.59" height="15.59" rx="7.79" ry="7.79"/>
+  </g>
+  <g id="ICONS">
+    <rect class="cls-3" x="5.49" y="5.14" width="4.6" height="1.44" rx=".14" ry=".14"/>
+    <rect class="cls-3" x="6.37" y="3.06" width="2.86" height="1.44" rx=".14" ry=".14"/>
+    <path class="cls-3" d="M9.32,2.43h-3.05c-.1,0-.18-.08-.18-.18v-.41c0-.08.05-.15.12-.17l1.54-.59s.07-.01.1,0l1.54.59c.07.03.12.1.12.17v.41c0,.1-.08.18-.18.18Z"/>
+    <path class="cls-3" d="M9.41,7.33c0-.07-.06-.12-.13-.12h-2.96c-.07,0-.12.05-.13.12l-.68,6.67c0,.08.05.14.13.14h4.32c.08,0,.14-.07.13-.14l-.68-6.67ZM8.18,10.95h-.77v-.77c0-.21.17-.38.38-.38s.38.17.38.38v.77ZM8.18,9.29h-.77v-.77c0-.21.17-.38.38-.38s.38.17.38.38v.77Z"/>
+    <line class="cls-1" x1="7" y1="2.83" x2="7" y2="4.64"/>
+    <line class="cls-1" x1="7.81" y1="2.88" x2="7.81" y2="4.69"/>
+    <line class="cls-1" x1="8.62" y1="2.93" x2="8.62" y2="4.74"/>
+  </g>
+</svg>
