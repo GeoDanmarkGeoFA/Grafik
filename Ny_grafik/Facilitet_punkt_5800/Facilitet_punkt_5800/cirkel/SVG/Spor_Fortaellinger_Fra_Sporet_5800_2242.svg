@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.59 15.59">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #071f39;
+      }
+    </style>
+  </defs>
+  <g id="Cirkel">
+    <rect class="cls-2" x="0" y="0" width="15.59" height="15.59" rx="7.79" ry="7.79"/>
+  </g>
+  <g id="ICONS">
+    <g>
+      <path class="cls-1" d="M7.8,2.77c-1.88,0-3.4,1.52-3.4,3.4s3.4,6.65,3.4,6.65c0,0,3.4-4.78,3.4-6.65s-1.52-3.4-3.4-3.4ZM7.8,8.69c-1.46,0-2.64-1.18-2.64-2.64s1.18-2.64,2.64-2.64,2.64,1.18,2.64,2.64-1.18,2.64-2.64,2.64Z"/>
+      <g>
+        <rect class="cls-1" x="7.41" y="5.49" width=".79" height="2"/>
+        <rect class="cls-1" x="7.41" y="4.41" width=".79" height=".7"/>
+      </g>
+    </g>
+  </g>
+</svg>
