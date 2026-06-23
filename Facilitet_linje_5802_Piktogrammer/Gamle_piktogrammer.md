@@ -1,0 +1,1 @@
+Navngivning og nye piktogrammer har betydet, at vi har oprettet nye mapper. Disse piktogrammer er dermed forældede og vedligeholdes ikke mere.
