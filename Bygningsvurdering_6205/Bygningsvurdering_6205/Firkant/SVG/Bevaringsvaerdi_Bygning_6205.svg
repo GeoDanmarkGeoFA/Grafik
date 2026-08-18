@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="5.5mm" height="5.5mm" viewBox="0 0 15.591 15.591">
+  <g id="a" data-name="Firkant">
+    <rect x="0" y="0" width="15.591" height="15.591" fill="#071f39"/>
+  </g>
+  <g id="b" data-name="Cirkel">
+    <rect x="0" y="0" width="15.591" height="15.591" rx="7.795" ry="7.795" fill="#021e3a"/>
+  </g>
+  <g id="c" data-name="ICONS">
+    <path d="M11.748,6.664c0-.109-.038-.194-.119-.269l-3.614-3.293c-.128-.119-.312-.108-.455.021l-3.588,3.287c-.068.062-.131.136-.131.267v4.573c0,.188.15.329.348.329h7.207c.215,0,.354-.143.354-.365v-4.551ZM11.048,6.819v4.062h-6.491l-.003-4.042,3.247-2.995,3.247,2.975Z" fill="#fff"/>
+  </g>
+</svg>
